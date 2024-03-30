@@ -11,7 +11,7 @@ Chaque répertoire contient le code source, les instructions de déploiement et 
 Fonctionnalités et tests
 Gestionnaire de tâches avec Java RMI:
 Déploiement:
-. Clonez le dépôt GitHub sur votre machine.
+- Clonez le dépôt GitHub sur votre machine.
 . Exécutez TaskServer pour démarrer le serveur RMI.
 . Exécutez TaskServiceClient pour lancer le client.
 Test:
