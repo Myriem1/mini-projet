@@ -37,10 +37,13 @@ Test:
 Service de chat avec sockets:
 
 Déploiement:
+
 - Clonez le dépôt socket.
 - Exécutez ChatServer pour démarrer le serveur.
-- Exécutez ChatClient pour lancer le client. 
+- Exécutez ChatClient pour lancer le client.
+
 Test:
+
 - Le client permet d'envoyer et de recevoir des messages texte.
 - Pour quitter l'application, vous pouvez entrer "exit".
 - Le serveur affiche les messages reçus et peut envoyer des réponses.
