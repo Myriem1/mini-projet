@@ -1,7 +1,9 @@
 Ce projet compare et met en contraste trois technologies de communication distribuée populaires en Java : RMI, gRPC et les sockets. Chaque technologie est utilisée pour implémenter un service distinct, illustrant ses forces et ses faiblesses dans des contextes spécifiques.
 
 Structure du projet: 
+
 Le code est organisé en trois répertoires distincts :
+
 RMIpart: Implémente un service de gestion de tâches utilisant Java RMI.
 GRPC: Contient le code pour un service de messagerie utilisant gRPC.
 SOCKETpart: Propose un service de chat simple utilisant des sockets Java.
