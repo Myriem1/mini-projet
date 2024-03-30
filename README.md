@@ -17,19 +17,23 @@ Déploiement:
 - Clonez le dépôt GitHub sur votre machine.
 - Exécutez TaskServer pour démarrer le serveur RMI.
 - Exécutez TaskServiceClient pour lancer le client.
+
 Test:
 
 - Le client offre un menu pour ajouter, supprimer et afficher des tâches.
+
 Service de messagerie avec gRPC:
+
 Déploiement:
 
 - Clonez les dépôts grpcserver et grpcclient.
 - Exécutez ChatServer dans grpcserver pour démarrer le serveur.
 - Exécutez ChatClient dans grpcclient pour lancer le client.
+
 Test:
 
 - Le client permet d'envoyer des messages au serveur.
-- 
+
 Service de chat avec sockets:
 
 Déploiement:
